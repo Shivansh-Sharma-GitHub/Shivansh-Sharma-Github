@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-sharma-github&show_icons=true&locale=en&layout=compact" alt="shivansh-sharma-github" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivansh-sharma-github&show_icons=true&locale=en" alt="shivansh-sharma-github" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivansh-sharma-github&" alt="shivansh-sharma-github" /></p>
 
